@@ -1,0 +1,92 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints">
+  <Exceptions set="MemManage;UsageFault_Coprocessor;UsageFault_CheckingError;UsageFault_StateError;BusFault;ExceptionEntryReturnFault;HardFault"/>
+ </Breakpoints>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="ble_app_uart_c_pca10040_s132" radix="16" sizeText="" addressText=""/>
+ </Memory1>
+ <Memory2>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="ble_app_uart_c_pca10040_s132" radix="16" sizeText="" addressText=""/>
+ </Memory2>
+ <Memory3>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="ble_app_uart_c_pca10040_s132" radix="16" sizeText="" addressText=""/>
+ </Memory3>
+ <Memory4>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="ble_app_uart_c_pca10040_s132" radix="16" sizeText="" addressText=""/>
+ </Memory4>
+ <Project>
+  <ProjectSessionItem path="ble_app_uart_c_pca10040_s132"/>
+  <ProjectSessionItem path="ble_app_uart_c_pca10040_s132;ble_app_uart_c_pca10040_s132"/>
+  <ProjectSessionItem path="ble_app_uart_c_pca10040_s132;ble_app_uart_c_pca10040_s132;Application"/>
+  <ProjectSessionItem path="ble_app_uart_c_pca10040_s132;ble_app_uart_c_pca10040_s132;ble_led"/>
+  <ProjectSessionItem path="ble_app_uart_c_pca10040_s132;ble_app_uart_c_pca10040_s132;Board Definition"/>
+  <ProjectSessionItem path="ble_app_uart_c_pca10040_s132;ble_app_uart_c_pca10040_s132;Board Support"/>
+  <ProjectSessionItem path="ble_app_uart_c_pca10040_s132;ble_app_uart_c_pca10040_s132;common"/>
+  <ProjectSessionItem path="ble_app_uart_c_pca10040_s132;ble_app_uart_c_pca10040_s132;None"/>
+  <ProjectSessionItem path="ble_app_uart_c_pca10040_s132;ble_app_uart_c_pca10040_s132;nRF_BLE"/>
+  <ProjectSessionItem path="ble_app_uart_c_pca10040_s132;ble_app_uart_c_pca10040_s132;nRF_BLE_Services"/>
+  <ProjectSessionItem path="ble_app_uart_c_pca10040_s132;ble_app_uart_c_pca10040_s132;nRF_Drivers"/>
+  <ProjectSessionItem path="ble_app_uart_c_pca10040_s132;ble_app_uart_c_pca10040_s132;nRF_Libraries"/>
+ </Project>
+ <Register1>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="ble_app_uart_c_pca10040_s132" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register1>
+ <Register2>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="ble_app_uart_c_pca10040_s132" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register2>
+ <Register3>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="ble_app_uart_c_pca10040_s132" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register3>
+ <Register4>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="ble_app_uart_c_pca10040_s132" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register4>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="51" y="62" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../main.c" selected="1" top="49" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="11728" useTextEdit="1" openedFrom="E:/workspace/Data/15.3.0_SDK/examples/ble_central/ble_app_uart_c/main.c" useBinaryEdit="0" left="0" path="../config/sdk_config.h" selected="0" top="11693" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="35" y="93" useTextEdit="1" openedFrom="E:/workspace/Data/15.3.0_SDK/examples/ble_central/ble_app_uart_c/main.c" useBinaryEdit="0" left="0" path="../../../../../../components/ble/nrf_ble_scan/nrf_ble_scan.h" selected="0" top="78" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="14" y="94" useTextEdit="1" openedFrom="E:/workspace/Data/15.3.0_SDK/components/ble/nrf_ble_scan/nrf_ble_scan.c" useBinaryEdit="0" left="0" path="../../../../../../components/softdevice/s132/headers/ble_types.h" selected="0" top="73" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="38" y="1143" useTextEdit="1" openedFrom="E:/workspace/Data/15.3.0_SDK/examples/ble_central/ble_app_uart_c/main.c" useBinaryEdit="0" left="0" path="../../../../../../components/ble/nrf_ble_scan/nrf_ble_scan.c" selected="0" top="1123" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="36" y="2460" useTextEdit="1" openedFrom="E:/workspace/Data/15.3.0_SDK/examples/ble_central/ble_app_uart_c/main.c" useBinaryEdit="0" left="0" path="../../../../../../components/softdevice/s132/headers/ble_gap.h" selected="0" top="2452" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="4" y="143" useTextEdit="1" openedFrom="E:/workspace/Data/15.3.0_SDK/examples/ble_central/ble_app_uart_c/main.c" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/util/app_util.h" selected="0" top="125" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="99" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/util/app_error_weak.c" selected="0" top="97" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="70" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/softdevice/s132/headers/ble_gatt.h" selected="0" top="46" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="72" useTextEdit="1" openedFrom="E:/workspace/Data/15.3.0_SDK/examples/ble_central/ble_app_uart_c/main.c" useBinaryEdit="0" left="0" path="../../../../../../components/ble/nrf_ble_gatt/nrf_ble_gatt.h" selected="0" top="53" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="484" useTextEdit="1" openedFrom="E:/workspace/Data/15.3.0_SDK/components/ble/nrf_ble_gatt/nrf_ble_gatt.h" useBinaryEdit="0" left="0" path="../../../../../../components/ble/nrf_ble_gatt/nrf_ble_gatt.c" selected="0" top="481" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="21" y="106" useTextEdit="1" openedFrom="E:/workspace/Data/15.3.0_SDK/examples/ble_central/ble_app_uart_c/main.c" useBinaryEdit="0" left="0" path="../../../../../../components/ble/ble_services/ble_nus_c/ble_nus_c.h" selected="0" top="91" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="19" y="39" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../c_source/gy_profile_led_c/gy_profile_led_c.c" selected="0" top="237" codecName="GBK"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="54" y="138" useTextEdit="1" openedFrom="E:/workspace/Data/15.3.0_SDK/examples/ble_central/ble_app_uart_c/main.c" useBinaryEdit="0" left="0" path="../../../../../../c_source/gy_profile_led_c/gy_profile_led_c.h" selected="0" top="97" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="174" useTextEdit="1" openedFrom="E:/workspace/Data/15.3.0_SDK/examples/ble_central/ble_app_uart_c/main.c" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/button/app_button.c" selected="0" top="161" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="8" y="69" useTextEdit="1" openedFrom="E:/workspace/Data/15.3.0_SDK/components/libraries/bsp/bsp.c" useBinaryEdit="0" left="0" path="../../../../../../components/boards/pca10040.h" selected="0" top="56" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="8" y="145" useTextEdit="1" openedFrom="E:/workspace/Data/15.3.0_SDK/examples/ble_central/ble_app_uart_c/main.c" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/util/nordic_common.h" selected="0" top="131" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="40" y="192" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/bsp/bsp.h" selected="0" top="127" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="525" useTextEdit="1" openedFrom="E:/workspace/Data/15.3.0_SDK/examples/ble_central/ble_app_uart_c/main.c" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/bsp/bsp.c" selected="0" top="512" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="19" y="208" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/boards/boards.c" selected="0" top="207" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="8" y="96" useTextEdit="1" openedFrom="E:/workspace/Data/15.3.0_SDK/components/libraries/bsp/bsp.c" useBinaryEdit="0" left="0" path="../../../../../../components/boards/boards.h" selected="0" top="83" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="65" y="68" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/softdevice/s132/headers/nrf_error.h" selected="0" top="54" codecName="UTF-8"/>
+ </Files>
+ <ARMCrossStudioWindow activeProject="ble_app_uart_c_pca10040_s132" fileDialogDefaultFilter="*.c;*.cpp;*.cxx;*.cc;*.h;*.hpp;*.hxx" autoConnectTarget="J-Link" buildConfiguration="Release" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="E:/workspace/Data/15.3.0_SDK/c_source/gy_serial_btn" debugSearchPath="" autoConnectCapabilities="3711"/>
+</session>
